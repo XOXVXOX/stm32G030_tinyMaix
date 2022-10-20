@@ -1,0 +1,10 @@
+stm32g030\tm_layers.o: ..\TinyMaix\tm_layers.c
+stm32g030\tm_layers.o: ..\TinyMaix\include\tinymaix.h
+stm32g030\tm_layers.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+stm32g030\tm_layers.o: D:\keil\ARM\ARMCC\Bin\..\include\stdio.h
+stm32g030\tm_layers.o: D:\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+stm32g030\tm_layers.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
+stm32g030\tm_layers.o: ..\TinyMaix\include\tm_port.h
+stm32g030\tm_layers.o: D:\keil\ARM\ARMCC\Bin\..\include\float.h
+stm32g030\tm_layers.o: D:\keil\ARM\ARMCC\Bin\..\include\math.h
+stm32g030\tm_layers.o: ..\TinyMaix\include\arch_cpu.h
