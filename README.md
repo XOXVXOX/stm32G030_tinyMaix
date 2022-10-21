@@ -23,8 +23,7 @@ MDK 5.20
 ## Step/Project
 
 Just simple edit `tm_port.h`
-
-https://github.com/XOXVXOX/TinyMaix
+https://github.com/XOXVXOX/stm32G030_tinyMaix.git
 
 ## Result
 
