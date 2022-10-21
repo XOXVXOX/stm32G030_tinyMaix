@@ -5,26 +5,26 @@
 | Item  | Parameter              |
 | ----- | ---------------------- |
 | Chip  | STM32G030               |
-| Arch  | RV32 IMAC (QingKe V3A) |
+| Arch  | ARM Cortex-M0+ |
 | Freq  | 64M                    |
 | Flash | 64KB                   |
-| RAM   | 20KB                   |
+| RAM   | 8KB                   |
 
 ## Board 
 
-CH32V103R-R0-1v2
+FK-G030M1-C8T6
 
-<a href="assets/CH32V103R.jpg"><img width=300 src="assets/CH32V103R.jpg"/></a>
+<a href="assets/STM32G030.jpg"><img width=300 src="assets/STM32G030.jpg"/></a>
 
 ## Development Environment
 
-MounRiver Studio
+MDK 5.20
 
 ## Step/Project
 
 Just simple edit `tm_port.h`
 
-https://github.com/dreamcmi/CH32V103-TinyMaix
+https://github.com/XOXVXOX/TinyMaix
 
 ## Result
 
@@ -36,4 +36,4 @@ https://github.com/dreamcmi/CH32V103-TinyMaix
 
 ## Author
 
-[Darren Cheng](https://github.com/dreamcmi) 
+[Higanbana](https://github.com/XOXVXOX) 
